@@ -1,0 +1,10 @@
+#Key = Value
+
+browser=chrome
+
+#Some examle of testing enviornment.
+url= https://techfios.com/billing/?ng=admin/         
+#url= https://qa.techfios.com/billing/?ng=admin/     --qa
+#url= https://crt1.techfios.com/billing/?ng=admin/  --crt1/runway
+#url= https://crt2.techfios.com/billing/?ng=admin/  --crt2
+#url= https://uat.techfios.com/billing/?ng=admin/   --uat
